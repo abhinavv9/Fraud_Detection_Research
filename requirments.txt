@@ -1,0 +1,14 @@
+matplotlib
+numexpr
+numpy
+pandas
+Pillow
+protobuf
+psutil
+scikit-learn
+scipy
+sympy
+tensorflow
+opencv-python
+imbalanced-learn
+seaborn
